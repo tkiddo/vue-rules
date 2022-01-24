@@ -8,9 +8,6 @@ module.exports = {
   // 配置js全局变量
   globals: {},
   extends: ['plugin:vue/essential', 'eslint:recommended', '@vue/prettier'],
-  parserOptions: {
-    parser: '@babel/eslint-parser'
-  },
   rules: {
     'no-console': [
       'warn',
