@@ -1,4 +1,4 @@
-# vue-rules
+# souche-vue-rules
 
 ## 安装
 
