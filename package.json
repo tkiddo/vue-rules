@@ -1,18 +1,25 @@
 {
   "name": "souche-vue-rules",
-  "version": "0.0.6",
-  "description": "",
+  "version": "0.0.7",
+  "description": "vue eslint和prettier配置",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "@babel/eslint-parser": "^7.14.4",
     "@vue/eslint-config-prettier": "^6.0.0",
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-vue": "^7.10.0"
   },
-  "keywords": [],
+  "keywords": [
+    "vue",
+    "eslint",
+    "prettier"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tkiddo/vue-rules.git"
+  },
   "author": "",
   "license": "ISC"
 }
